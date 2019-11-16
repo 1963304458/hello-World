@@ -1,14 +1,13 @@
-<!DOCTYPE html>
 <html>
 
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>彬</title>
 </head>
 
 <body>
   
-  <p>helloworld</p>
+  <p>文斌</p>
   
   
 </body>
